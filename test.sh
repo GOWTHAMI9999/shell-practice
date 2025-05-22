@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Hey how are you??"
+echo "where are you?"
